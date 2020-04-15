@@ -1,6 +1,5 @@
+reason behind this file is that i dont wanted to install the webinar app as i am running low on space and RAM <br />
 
+so i just researched and found out that we can use html5 to use GoTowebinar inside the browser <br /><br />
 
-this is a small bat file because i am too lazy to type XD
-
-->enter the webinar address you want to open in html.
-->if you have different browser replace "chrome" with any browser you want to use.
+so this is a small bat file wchich just edit the address and make posible to open in browser
