@@ -5,3 +5,5 @@ so i just researched and found out that we can use html5 to use GoTowebinar insi
 so this is a small bat file which just edits the address and make possible to open in browser<br /><br /><br />
 
 any pull requests are welcomed and i am not a pro just a lazy user so dont hate me :)
+
+![Screenshot](webinar.jpg)
