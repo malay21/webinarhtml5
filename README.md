@@ -7,6 +7,8 @@ any pull requests are welcomed and i am not a pro just a lazy user so dont hate 
 ![Screenshot](Screenshot.jpg)
 <br />
 ![Screenshot](webinnar.png)
+<br />
+![Screenshot](webinar_chrome.png)
 <br /><br />
 
 this is a winows batch file and won't work with other OS <br /><br />
